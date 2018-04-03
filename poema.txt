@@ -1,9 +1,12 @@
 Este es el poema.
 
+La luz blanca tiene todos estos colores:
+
 Azul
 Rojo
 Magenta
 Verde
 Amarillo
+Azul claro
 
 Fin.
